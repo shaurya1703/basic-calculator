@@ -10,3 +10,6 @@ Visual Studio Code is a free and powerful open-source code editor used in variou
 Download your specified version from VS Code.
 Follow the Documentation to get accustomed and get started coding in this wonderful editor!
 The website Basic Calculator looks like the following :
+![Basic calculator](https://github.com/shaurya1703/basic-calculator/assets/84233560/44f42bc0-9e45-4b78-98ff-e47016bc97d8)
+
+![Basic calculator2](https://github.com/shaurya1703/basic-calculator/assets/84233560/d3d5efc2-f02c-4a72-aee7-0ea22b161970)
